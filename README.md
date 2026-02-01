@@ -2,9 +2,9 @@
 
 ## Learning Objectives
 
-- [ ] Know how to make a plot in `ggplot` that plots a single variable in a DataFrame (notebooks 1 & 2)
-- [ ] Understand what a distribution is and the various ways to visualize one (notebooks 1 & 2)
-- [ ] Be aware of the pipe (`%>%`) syntax in the tidyverse R package and understand what it does (notebook 3)
+- [x] Know how to make a plot in `ggplot` that plots a single variable in a DataFrame (notebooks 1 & 2)
+- [x] Understand what a distribution is and the various ways to visualize one (notebooks 1 & 2)
+- [x] Be aware of the pipe (`%>%`) syntax in the tidyverse R package and understand what it does (notebook 3)
 
 ## Files
 
